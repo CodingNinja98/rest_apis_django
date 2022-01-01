@@ -1,3 +1,8 @@
+# Django Rest Apis Demo
+
+
+This repo is an example how to develop REST Apis using Django Framework
+
 For more detail, please visit:
 
 Django Rest Api tutorial with examples
